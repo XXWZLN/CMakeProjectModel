@@ -1,0 +1,3 @@
+C:\cmake-3.24.0-rc2-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\module1.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\module1.dir/objects.a @CMakeFiles\module1.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\module1.dir/objects.a -Wl,--no-whole-archive -o D:\cpp\test4\bin\module1.exe -Wl,--out-implib,D:\cpp\test4\bin\libmodule1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\module1.dir\linklibs.rsp
