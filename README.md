@@ -1,0 +1,2 @@
+# CMakeProjectModel
+vscode用cmake和gcc编译的cpp项目模板
