@@ -1,7 +1,8 @@
 #include "hello.h"
 
-int main(){
-    printHello();
-    printf("\nfuck you");
-    return 0;
+int main() {
+  printHello();
+  printf("\nfuck you");
+  printf("\nfuck you too");
+  return 0;
 }
